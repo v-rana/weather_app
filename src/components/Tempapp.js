@@ -36,7 +36,10 @@ const Tempapp = () => {
                      : <div>
                         <div>
                         <br />
-                        <i className="fa-solid fa-temperature-half"></i>{search}
+                        <div className="iconw">
+                        <i className="fa-solid fa-temperature-half"></i> {search}
+                        </div>
+                        
                         <h2 className= "temp">{city.temp}° C</h2>
                         <h3 className= "temp-min-max">Min: {city.temp_min}° C | Max: {city.temp_max}° C</h3>
                         <h3>env: {w.main}</h3>
