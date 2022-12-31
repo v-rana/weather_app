@@ -1,5 +1,5 @@
 import React from 'react'
-import './css/Glitch_head.css'
+// import './css/Glitch_head.css'
 function Glitch_head() {
   return (
     <div>
