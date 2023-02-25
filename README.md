@@ -10,15 +10,4 @@ The code is deployed on netlify.
 
 
 ## [Demo](https://wheather-app-1.netlify.app/)
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+![Screenshot 2023-02-25 103105](https://user-images.githubusercontent.com/63035799/221339485-29b415c3-3692-4cab-97a0-eda6555d5623.jpg)
